@@ -1,6 +1,10 @@
 [
   {
-    "version": "1.17",
+    "version": "1.18_experimental-snapshot-6",
+    "stable": false
+  },
+  {
+    "version": "1.17.1",
     "stable": true
   },
   {
